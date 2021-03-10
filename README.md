@@ -32,7 +32,7 @@ You can start the counting animation when it's visible
     marginTop: '50px',
   }}
 >
-  123,123,123
+  1,844
 </TurnOverSequence>
 ```
 
